@@ -32,15 +32,3 @@
     
    Visual Studio Code: Used to build, write and deploy my project locally .
   
-
-# Approach:
-  My approach in building each page of this project was simple first I created basic structure 
-  of webpage using html then designed the page using CSS elements then if required used 
-  JavaScript to make the webpage responsive to clicks or on provided input. The sequence of 
-  development of different pages of this project are like this first I was the landing page/ 
-  home page then sign-in page and sign-up page at in the was browse page.
-  
-
-# LinK:- https://cloned-netflix-website.herokuapp.com/
-
-> This app was build for studying purposes only.
